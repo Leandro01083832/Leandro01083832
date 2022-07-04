@@ -38,9 +38,9 @@ Sou leandro Luis da Silva, apaixonado por tecnologia, gosto de criar ótimos sof
 </a>
 
 [website]: https://codedev.ga/
-[twitter]: https://twitter.com/_murito
-[instagram]: https://www.instagram.com/wmurito
-[linkedin]: https://www.linkedin.com/in/wellington-murito-aba51760/
+[twitter]: https://twitter.com/leandroleanleo
+[instagram]: https://www.instagram.com/leandromaraca
+[linkedin]: https://www.linkedin.com/in/leandro-programador/
 <br>
 
 #### Rede Sociais!
